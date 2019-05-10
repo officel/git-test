@@ -16,3 +16,5 @@ git remote add origin git@github.com:officel/git-test.git
 git push -u origin master
 ```
 
+* PGP Keyがおいてあるとことを意識しないとしくじる
+
